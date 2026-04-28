@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604281604315O82G6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428160431EE7C4P</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Responde a la llamada de la selva</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Patricia Valle Vigón</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777384910577</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777192924693-310kskwgn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777192924693-310kskwgn</odeBlockId>
+          <odeIdeviceId>idevice-1777192924692-2pnxhyinr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-26 103913.png" title="Esquema de la SdA" width="1536" height="895" alt="Esquema de la SdA" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777192924692-2pnxhyinr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-26 103913.png\" title=\"Esquema de la SdA\" width=\"1536\" height=\"895\" alt=\"Esquema de la SdA\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777186567123-sw2p7izd8</odeBlockId>
+      <blockName>Etapa educativa</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777186567123-sw2p7izd8</odeBlockId>
+          <odeIdeviceId>idevice-1777186567117-eao9pxlrw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Educación Secundaria Obligatoria (ESO)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777186567117-eao9pxlrw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Educación Secundaria Obligatoria (ESO)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777188310617-zwbfbjay5</odeBlockId>
+      <blockName>Nivel</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777188310617-zwbfbjay5</odeBlockId>
+          <odeIdeviceId>idevice-1777188310615-xpp5a1cyh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>4º ESO</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777188310615-xpp5a1cyh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>4º ESO</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777188377375-uf0giz17k</odeBlockId>
+      <blockName>Materia</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777188377375-uf0giz17k</odeBlockId>
+          <odeIdeviceId>idevice-1777188377374-s7g90fg82</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Física y Química</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777188377374-s7g90fg82","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Física y Química</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777188404599-vo0j5ewfs</odeBlockId>
+      <blockName>Agrupamientos</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777188404599-vo0j5ewfs</odeBlockId>
+          <odeIdeviceId>idevice-1777188404598-cgybywy40</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" title="Agrupamientos" width="1536" height="772" alt="Agrupamientos previstos para la SdA" /></p>
+<p></p>
+<p>En función de la tarea a realizar, los agrupamientos empleados a lo largo de las sesiones serán:</p>
+<ul>
+<li><strong>Gran grupo</strong>: fomenta la escucha activa, la empatía, el respeto, la emisión de ideas y la toma de decisiones. Ejemplos: píldoras de aprendizaje, lluvia de ideas y debates. </li>
+<li><strong>Pequeño grupo, heterogéneo: </strong>facilita el aprendizaje por cooperación, la autonomía personal y la motivación. Ejemplos: trabajos de investigación, trabajo cooperativo con roles y estaciones de aprendizaje.</li>
+<li><strong>Parejas:</strong> En la tutorización entre iguales.</li>
+<li><strong>Trabajo Individual:</strong> favorece la autonomía y la concentración, se estimula la autoevaluación, la lectura silenciosa y la reflexión sobre lo aprendido. Ejemplos: porfolio de investigación, mapas conceptuales, tareas diarias y clase invertida.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777188404598-cgybywy40","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" title=\"Agrupamientos\" width=\"1536\" height=\"772\" alt=\"Agrupamientos previstos para la SdA\" /></p>\n<p></p>\n<p>En función de la tarea a realizar, los agrupamientos empleados a lo largo de las sesiones serán:</p>\n<ul>\n<li><strong>Gran grupo</strong>: fomenta la escucha activa, la empatía, el respeto, la emisión de ideas y la toma de decisiones. Ejemplos: píldoras de aprendizaje, lluvia de ideas y debates. </li>\n<li><strong>Pequeño grupo, heterogéneo: </strong>facilita el aprendizaje por cooperación, la autonomía personal y la motivación. Ejemplos: trabajos de investigación, trabajo cooperativo con roles y estaciones de aprendizaje.</li>\n<li><strong>Parejas:</strong> En la tutorización entre iguales.</li>\n<li><strong>Trabajo Individual:</strong> favorece la autonomía y la concentración, se estimula la autoevaluación, la lectura silenciosa y la reflexión sobre lo aprendido. Ejemplos: porfolio de investigación, mapas conceptuales, tareas diarias y clase invertida.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777189173936-ddhgwfa3x</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777189173936-ddhgwfa3x</odeBlockId>
+          <odeIdeviceId>idevice-1777189173934-agqhcg6zt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje<strong> "Responde a la llamada de la selva"</strong> enmarcada en la unidad de programación <em>“El átomo y la tabla periódica”</em> se desarrollará durante el segundo trimestre del curso escolar, con una duración total de 10 sesiones. Se plantea una secuencia organizada en cuatro bloques que combinan la adquisición de conocimientos teóricos o saberes, la experimentación práctica y la aplicación en un proyecto final de gran impacto social, fomentando la investigación, la colaboración, la comunicación y el uso de herramientas digitales.</p>
+<p>Cada sesión tiene una duración de 55 minutos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777189173934-agqhcg6zt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje<strong> \"Responde a la llamada de la selva\"</strong> enmarcada en la unidad de programación <em>“El átomo y la tabla periódica”</em> se desarrollará durante el segundo trimestre del curso escolar, con una duración total de 10 sesiones. Se plantea una secuencia organizada en cuatro bloques que combinan la adquisición de conocimientos teóricos o saberes, la experimentación práctica y la aplicación en un proyecto final de gran impacto social, fomentando la investigación, la colaboración, la comunicación y el uso de herramientas digitales.</p>\n<p>Cada sesión tiene una duración de 55 minutos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777189484189-6mm9eh66b</odeBlockId>
+      <blockName>Productos de la Situación de Aprendizaje</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777189484189-6mm9eh66b</odeBlockId>
+          <odeIdeviceId>idevice-1777189484187-m3m5levg7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>Infografía</h2>
+<p>Infografía digital sobre la composición elemental de un teléfono móvil o cualquier otro dispositivo electrónico donde se refleje la comprensión de los saberes abordados en la unidad.</p>
+<h2>Dossier del Proyecto Aprendizaje Servicio</h2>
+<p>El dossier del proyecto de Aprendizaje-Servicio (ApS) "Responde a la llamada de la selva" es el documento donde el alumnado recoge tanto el proceso de investigación científica como el impacto social de su acción. Contendrá los siguientes apartados:</p>
+<ol>
+<li>Portada e Identificación</li>
+<li>Justificación: La Necesidad Social (El "Porqué")</li>
+<li>Fundamentación Científica: Saberes de Física y Química</li>
+<li>Objetivos del Servicio (El "Para qué")</li>
+<li>Plan de Acción y Ejecución</li>
+<li>Comunicación y Difusión</li>
+<li>Resultados e Impacto</li>
+<li>Reflexión Final y Autoevaluación</li>
+</ol>
+<h2>Producción audiovisual de concienciación</h2>
+<p>El alumnado elaborará a su criterio, para fomentar el DUA, un podcast o un video de concienciación social sobre la necesidad de reciclar teléfonos móviles en desuso para fomentar su reciclado y economía circular y ayudar a la comunidad africana.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777189484187-m3m5levg7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Infografía</h2>\n<p>Infografía digital sobre la composición elemental de un teléfono móvil o cualquier otro dispositivo electrónico donde se refleje la comprensión de los saberes abordados en la unidad.</p>\n<h2>Dossier del Proyecto Aprendizaje Servicio</h2>\n<p>El dossier del proyecto de Aprendizaje-Servicio (ApS) \"Responde a la llamada de la selva\" es el documento donde el alumnado recoge tanto el proceso de investigación científica como el impacto social de su acción. Contendrá los siguientes apartados:</p>\n<ol>\n<li>Portada e Identificación</li>\n<li>Justificación: La Necesidad Social (El \"Porqué\")</li>\n<li>Fundamentación Científica: Saberes de Física y Química</li>\n<li>Objetivos del Servicio (El \"Para qué\")</li>\n<li>Plan de Acción y Ejecución</li>\n<li>Comunicación y Difusión</li>\n<li>Resultados e Impacto</li>\n<li>Reflexión Final y Autoevaluación</li>\n</ol>\n<h2>Producción audiovisual de concienciación</h2>\n<p>El alumnado elaborará a su criterio, para fomentar el DUA, un podcast o un video de concienciación social sobre la necesidad de reciclar teléfonos móviles en desuso para fomentar su reciclado y economía circular y ayudar a la comunidad africana.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+      <odeBlockId>block-1777191154517-2pt1zkhtf</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip326x-cqzr4nzf3</odePageId>
+          <odeBlockId>block-1777191154517-2pt1zkhtf</odeBlockId>
+          <odeIdeviceId>idevice-1777191154515-i0k4hzpwt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Entorno Personal de Aprendizaje (EPA)</h2>
+<p><a href="https://www.symbaloo.com/mix/epa-pvv">https://www.symbaloo.com/mix/epa-pvv</a></p>
+<p>Se facilita el acceso al Entorno Personal de Aprendizaje del docente para motivar la creación de uno propio por parte del alumnado como vía de acceso a su banco de recursos.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-26 101748.png" title="EPA Física y Química" width="1509" height="530" alt="Symbaloo de recursos " /></p>
+<h2>Materiales didácticos de creación propia</h2>
+<p>A través de recopilación de recursos de la bibliografía o bien mediante el empleo de inteligencia artificial, se facilitarán glosarios, resúmenes, mapas conceptuales y actividades manipulativas para las estaciones de aprendizaje.</p>
+<h2>Materiales digitales</h2>
+<ul>
+<li>Videos de ODS relacionados con la unidad.</li>
+<li>Documentales relacionados con la extracción de coltán.</li>
+<li>Clipmetrajes de concienciación ciudadana.</li>
+<li>Simulador virtual PHET.</li>
+</ul>
+<h2>Libros de texto</h2>
+<p>Se dispondrá de diferentes muestras de varias editoriales accesibles para el alumnado en el trabajo en grupo.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777191154515-i0k4hzpwt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Entorno Personal de Aprendizaje (EPA)</h2>\n<p><a href=\"https://www.symbaloo.com/mix/epa-pvv\">https://www.symbaloo.com/mix/epa-pvv</a></p>\n<p>Se facilita el acceso al Entorno Personal de Aprendizaje del docente para motivar la creación de uno propio por parte del alumnado como vía de acceso a su banco de recursos.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-26 101748.png\" title=\"EPA Física y Química\" width=\"1509\" height=\"530\" alt=\"Symbaloo de recursos \" /></p>\n<h2>Materiales didácticos de creación propia</h2>\n<p>A través de recopilación de recursos de la bibliografía o bien mediante el empleo de inteligencia artificial, se facilitarán glosarios, resúmenes, mapas conceptuales y actividades manipulativas para las estaciones de aprendizaje.</p>\n<h2>Materiales digitales</h2>\n<ul>\n<li>Videos de ODS relacionados con la unidad.</li>\n<li>Documentales relacionados con la extracción de coltán.</li>\n<li>Clipmetrajes de concienciación ciudadana.</li>\n<li>Simulador virtual PHET.</li>\n</ul>\n<h2>Libros de texto</h2>\n<p>Se dispondrá de diferentes muestras de varias editoriales accesibles para el alumnado en el trabajo en grupo.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3270-pfueag77d</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3270-pfueag77d</odePageId>
+      <odeBlockId>block-mnyhcmq1-t5c2e2lmy</odeBlockId>
+      <blockName>Justificación e impacto</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3270-pfueag77d</odePageId>
+          <odeBlockId>block-mnyhcmq1-t5c2e2lmy</odeBlockId>
+          <odeIdeviceId>idevice-mnyhcmq1-86cuv9u47</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje el alumnado se adentrará en la construcción del conocimiento científico sobre la estructura de la materia. A través del recorrido histórico por los principales modelos atómicos, descubrirá cómo las ideas sobre el átomo han ido evolucionando hasta consolidar la teoría actual. Se abordarán conceptos fundamentales como la existencia de partículas subatómicas, los isótopos y la ordenación de los elementos en la tabla periódica, relacionándolos con fenómenos y materiales presentes en su vida cotidiana.</p>
+<p>Haciendo uso del papel integrador del Aprendizaje Servicio (ApS), los alumnos y las alumnas aprenderán haciendo un servicio a la comunidad. Encontrarán sentido a lo que estudian aplicando sus conocimientos a la práctica solidaria y se convertirán en buenos ciudadanos capaces de mejorar la sociedad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnyhcmq1-86cuv9u47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje el alumnado se adentrará en la construcción del conocimiento científico sobre la estructura de la materia. A través del recorrido histórico por los principales modelos atómicos, descubrirá cómo las ideas sobre el átomo han ido evolucionando hasta consolidar la teoría actual. Se abordarán conceptos fundamentales como la existencia de partículas subatómicas, los isótopos y la ordenación de los elementos en la tabla periódica, relacionándolos con fenómenos y materiales presentes en su vida cotidiana.</p>\n<p>Haciendo uso del papel integrador del Aprendizaje Servicio (ApS), los alumnos y las alumnas aprenderán haciendo un servicio a la comunidad. Encontrarán sentido a lo que estudian aplicando sus conocimientos a la práctica solidaria y se convertirán en buenos ciudadanos capaces de mejorar la sociedad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip3270-pfueag77d</odePageId>
+      <odeBlockId>block-1777192673242-c9p4aygv7</odeBlockId>
+      <blockName>Relación con los ODS y Retos del siglo XXI</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3270-pfueag77d</odePageId>
+          <odeBlockId>block-1777192673242-c9p4aygv7</odeBlockId>
+          <odeIdeviceId>idevice-1777192673241-9bymvugbg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/S-WEB-Goal-01.png" title="ODS 1" width="124" height="124" alt="ODS 1" /><img src="{{context_path}}/content/resources/S-WEB-Goal-04.png" title="ODS 4" width="124" height="124" alt="ODS 4" /><img src="{{context_path}}/content/resources/S-WEB-Goal-12.png" title="ODS 12" width="124" height="124" alt="ODS 12" /><img src="{{context_path}}/content/resources/S-WEB-Goal-13.png" title="ODS 13" width="124" height="124" alt="ODS 13" /><img src="{{context_path}}/content/resources/S-WEB-Goal-15.png" title="ODS 15" width="124" height="124" alt="ODS 15" /><img src="{{context_path}}/content/resources/S-WEB-Goal-16.png" title="ODS 16" width="124" height="124" alt="ODS 16" /><br /></p>
+<p>Se fomentará la concienciación de la necesidad de una gestión eficiente y sostenible de los recursos naturales como el agua y los recursos minerales, donde el alumnado será agente activo del cambio que promueva un futuro sostenible, minimizando al máximo y tratando su contaminación y sobreexplotación, en consonancia con los<strong> retos del siglo XXI</strong> de:</p>
+<ul>
+<li>Desarrollar una actitud responsable a partir de la toma de conciencia de la degradación del medioambiente y del maltrato animal basada en el conocimiento de las causas que los provocan, agravan o mejoran, desde una visión sistémica, tanto local como global.</li>
+<li>Identificar los diferentes aspectos relacionados con el consumo responsable, valorando sus repercusiones sobre el bien individual y el común, juzgando críticamente las necesidades y los excesos y ejerciendo un control social frente a la vulneración de sus derechos.</li>
+<li>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</li>
+<li>Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777192673241-9bymvugbg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/S-WEB-Goal-01.png\" title=\"ODS 1\" width=\"124\" height=\"124\" alt=\"ODS 1\" /><img src=\"{{context_path}}/content/resources/S-WEB-Goal-04.png\" title=\"ODS 4\" width=\"124\" height=\"124\" alt=\"ODS 4\" /><img src=\"{{context_path}}/content/resources/S-WEB-Goal-12.png\" title=\"ODS 12\" width=\"124\" height=\"124\" alt=\"ODS 12\" /><img src=\"{{context_path}}/content/resources/S-WEB-Goal-13.png\" title=\"ODS 13\" width=\"124\" height=\"124\" alt=\"ODS 13\" /><img src=\"{{context_path}}/content/resources/S-WEB-Goal-15.png\" title=\"ODS 15\" width=\"124\" height=\"124\" alt=\"ODS 15\" /><img src=\"{{context_path}}/content/resources/S-WEB-Goal-16.png\" title=\"ODS 16\" width=\"124\" height=\"124\" alt=\"ODS 16\" /><br /></p>\n<p>Se fomentará la concienciación de la necesidad de una gestión eficiente y sostenible de los recursos naturales como el agua y los recursos minerales, donde el alumnado será agente activo del cambio que promueva un futuro sostenible, minimizando al máximo y tratando su contaminación y sobreexplotación, en consonancia con los<strong> retos del siglo XXI</strong> de:</p>\n<ul>\n<li>Desarrollar una actitud responsable a partir de la toma de conciencia de la degradación del medioambiente y del maltrato animal basada en el conocimiento de las causas que los provocan, agravan o mejoran, desde una visión sistémica, tanto local como global.</li>\n<li>Identificar los diferentes aspectos relacionados con el consumo responsable, valorando sus repercusiones sobre el bien individual y el común, juzgando críticamente las necesidades y los excesos y ejerciendo un control social frente a la vulneración de sus derechos.</li>\n<li>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</li>\n<li>Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3270-8n5ogeiot</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3270-8n5ogeiot</odePageId>
+      <odeBlockId>block-1777194919752-89y2c20es</odeBlockId>
+      <blockName>Tabla con la relación de lo s elementos curriculares de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3270-8n5ogeiot</odePageId>
+          <odeBlockId>block-1777194919752-89y2c20es</odeBlockId>
+          <odeIdeviceId>idevice-1777194919747-jxbvrbe37</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.047%; height: 1082.8px; background-color: #ECF0F1; border-color: #34495e; border-style: solid;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 20.3781%; height: 32.8px;"><strong>Competencia Calve</strong></td>
+<td style="width: 20.0092%; height: 32.8px;"><strong>Competencia Específica</strong></td>
+<td style="width: 20.0092%; height: 32.8px;"><strong>Descriptores</strong></td>
+<td style="width: 20.0092%; height: 32.8px;"><strong>Criterios de evaluación</strong></td>
+<td style="width: 19.6404%; height: 32.8px;"><strong>Saberes Básicos</strong></td>
+</tr>
+<tr style="height: 88.4px;">
+<td style="height: 176.8px; width: 20.3781%;" rowspan="2">STEM, CCL</td>
+<td style="height: 176.8px; width: 20.0092%;" rowspan="2">CE.FYQ.1. Utilizar las metodologías propias de la ciencia y las herramientas tecnológicas para responder a cuestiones relacionadas con la Física y la Química.</td>
+<td rowspan="2" style="width: 20.0092%; height: 176.8px;">STEM1, STEM2, CD1.<br /></td>
+<td style="width: 20.0092%; height: 88.4px;">1.1. Responder a cuestiones científicas aplicando las leyes y teorías de la materia.<br /></td>
+<td rowspan="2" style="width: 19.6404%; height: 176.8px;">Bloque A: Metodologías de trabajo científico. El átomo: partículas subatómicas (Z,A,N), iones e isótopos.<br /></td>
+</tr>
+<tr style="height: 88.4px;">
+<td style="width: 20.0092%; height: 88.4px;">1.2. Diseñar proyectos de Aprendizaje-Servicio de forma cooperativa.</td>
+</tr>
+<tr style="height: 296.8px;">
+<td style="width: 20.3781%; height: 296.8px;">CCL, STEM, CD, CCEC</td>
+<td style="width: 20.0092%; height: 296.8px;">CE.FYQ.2. Interpretar y transmitir información y datos científicos de forma clara y ética, usando diferentes formatos.<br /> <br />CE.FYQ.4. Aplicar soluciones sostenibles a problemas actuales, analizando el impacto de la tecnología en el medio ambiente.<br /> <br /></td>
+<td style="width: 20.0092%; height: 296.8px;">CCL2, STEM4, CD3, CCEC1.</td>
+<td style="width: 20.0092%; height: 296.8px;">2.1. Expresar conceptos como la estructura del átomo usando formatos digitales (infografías y vídeo) y lenguaje inclusivo.</td>
+<td style="width: 19.6404%; height: 296.8px;">Bloque A: Modelos atómicos (de Dalton al modelo cuántico simplificado). Configuración electrónica por subniveles.</td>
+</tr>
+<tr style="height: 128.8px;">
+<td style="height: 209.6px; width: 20.3781%;" rowspan="2">STEM, CD, CPSAA, CC<br /></td>
+<td style="height: 209.6px; width: 20.0092%;" rowspan="2">CE.FYQ.4. Aplicar soluciones sostenibles a problemas actuales, analizando el impacto de la tecnología en el medio ambiente.<br /></td>
+<td style="height: 209.6px; width: 20.0092%;" rowspan="2">STEM5, CD4, CPSAA2, CC4.<br /></td>
+<td style="width: 20.0092%; height: 128.8px;">4.1. Analizar el impacto del consumo de tecnología (smartphones) sobre la salud y el medio ambiente.</td>
+<td style="height: 209.6px; width: 19.6404%;" rowspan="2">Bloque B: La Tabla Periódica: grupos, periodos y propiedades periódicas. Elementos químicos críticos y sostenibilidad.<br /></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 20.0092%; height: 80.8px;">4.2. Adoptar hábitos sostenibles (Campaña de recogida de móviles).</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="height: 185.6px; width: 20.3781%;" rowspan="2">STEM, CPSAA, CE<br /></td>
+<td style="height: 185.6px; width: 20.0092%;" rowspan="2">CE.FYQ.5. Emprender proyectos científicos que involucren al alumnado en la mejora de la sociedad y creen valor para la comunidad.</td>
+<td style="height: 185.6px; width: 20.0092%;" rowspan="2">STEM3, STEM4, CPSAA3, CE1.</td>
+<td style="width: 20.0092%; height: 80.8px;">5.1. Identificar necesidades locales (residuos electrónicos).</td>
+<td style="height: 185.6px; width: 19.6404%;" rowspan="2">Bloque B: Propiedades de los elementos (metales, no metales, tierras raras) y su utilidad social.</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 20.0092%; height: 104.8px;">5.2. Emprender proyectos (ApS) que creen valor para la comunidad (Jane Goodall).</td>
+</tr>
+<tr style="height: 104.8px;">
+<td rowspan="2" style="width: 20.3781%; height: 181.2px;">CCL, STEM, CD, CC</td>
+<td rowspan="2" style="width: 20.0092%; height: 181.2px;">CE.FYQ.6. Reconocer las contribuciones de la ciencia y la labor de las personas dedicadas a ella (especialmente mujeres y figuras clave).</td>
+<td rowspan="2" style="width: 20.0092%; height: 181.2px;">CCL3, STEM2, CD1, CC3.</td>
+<td style="width: 20.0092%; height: 104.8px;">6.1. Valorar la labor de personas como Jane Goodall en la protección del medio ambiente.</td>
+<td rowspan="2" style="width: 19.6404%; height: 181.2px;">Bloque A: Evolución histórica de la ciencia y los modelos de la materia. La ciencia como labor colectiva y ética.</td>
+</tr>
+<tr style="height: 76.4px;">
+<td style="width: 20.0092%; height: 76.4px;">6.2. Entender la ciencia como un proceso en constante evolución.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777194919747-jxbvrbe37","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.047%; height: 1082.8px; background-color: #ECF0F1; border-color: #34495e; border-style: solid;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 20.3781%; height: 32.8px;\"><strong>Competencia Calve</strong></td>\n<td style=\"width: 20.0092%; height: 32.8px;\"><strong>Competencia Específica</strong></td>\n<td style=\"width: 20.0092%; height: 32.8px;\"><strong>Descriptores</strong></td>\n<td style=\"width: 20.0092%; height: 32.8px;\"><strong>Criterios de evaluación</strong></td>\n<td style=\"width: 19.6404%; height: 32.8px;\"><strong>Saberes Básicos</strong></td>\n</tr>\n<tr style=\"height: 88.4px;\">\n<td style=\"height: 176.8px; width: 20.3781%;\" rowspan=\"2\">STEM, CCL</td>\n<td style=\"height: 176.8px; width: 20.0092%;\" rowspan=\"2\">CE.FYQ.1. Utilizar las metodologías propias de la ciencia y las herramientas tecnológicas para responder a cuestiones relacionadas con la Física y la Química.</td>\n<td rowspan=\"2\" style=\"width: 20.0092%; height: 176.8px;\">STEM1, STEM2, CD1.<br /></td>\n<td style=\"width: 20.0092%; height: 88.4px;\">1.1. Responder a cuestiones científicas aplicando las leyes y teorías de la materia.<br /></td>\n<td rowspan=\"2\" style=\"width: 19.6404%; height: 176.8px;\">Bloque A: Metodologías de trabajo científico. El átomo: partículas subatómicas (Z,A,N), iones e isótopos.<br /></td>\n</tr>\n<tr style=\"height: 88.4px;\">\n<td style=\"width: 20.0092%; height: 88.4px;\">1.2. Diseñar proyectos de Aprendizaje-Servicio de forma cooperativa.</td>\n</tr>\n<tr style=\"height: 296.8px;\">\n<td style=\"width: 20.3781%; height: 296.8px;\">CCL, STEM, CD, CCEC</td>\n<td style=\"width: 20.0092%; height: 296.8px;\">CE.FYQ.2. Interpretar y transmitir información y datos científicos de forma clara y ética, usando diferentes formatos.<br /> <br />CE.FYQ.4. Aplicar soluciones sostenibles a problemas actuales, analizando el impacto de la tecnología en el medio ambiente.<br /> <br /></td>\n<td style=\"width: 20.0092%; height: 296.8px;\">CCL2, STEM4, CD3, CCEC1.</td>\n<td style=\"width: 20.0092%; height: 296.8px;\">2.1. Expresar conceptos como la estructura del átomo usando formatos digitales (infografías y vídeo) y lenguaje inclusivo.</td>\n<td style=\"width: 19.6404%; height: 296.8px;\">Bloque A: Modelos atómicos (de Dalton al modelo cuántico simplificado). Configuración electrónica por subniveles.</td>\n</tr>\n<tr style=\"height: 128.8px;\">\n<td style=\"height: 209.6px; width: 20.3781%;\" rowspan=\"2\">STEM, CD, CPSAA, CC<br /></td>\n<td style=\"height: 209.6px; width: 20.0092%;\" rowspan=\"2\">CE.FYQ.4. Aplicar soluciones sostenibles a problemas actuales, analizando el impacto de la tecnología en el medio ambiente.<br /></td>\n<td style=\"height: 209.6px; width: 20.0092%;\" rowspan=\"2\">STEM5, CD4, CPSAA2, CC4.<br /></td>\n<td style=\"width: 20.0092%; height: 128.8px;\">4.1. Analizar el impacto del consumo de tecnología (smartphones) sobre la salud y el medio ambiente.</td>\n<td style=\"height: 209.6px; width: 19.6404%;\" rowspan=\"2\">Bloque B: La Tabla Periódica: grupos, periodos y propiedades periódicas. Elementos químicos críticos y sostenibilidad.<br /></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 20.0092%; height: 80.8px;\">4.2. Adoptar hábitos sostenibles (Campaña de recogida de móviles).</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"height: 185.6px; width: 20.3781%;\" rowspan=\"2\">STEM, CPSAA, CE<br /></td>\n<td style=\"height: 185.6px; width: 20.0092%;\" rowspan=\"2\">CE.FYQ.5. Emprender proyectos científicos que involucren al alumnado en la mejora de la sociedad y creen valor para la comunidad.</td>\n<td style=\"height: 185.6px; width: 20.0092%;\" rowspan=\"2\">STEM3, STEM4, CPSAA3, CE1.</td>\n<td style=\"width: 20.0092%; height: 80.8px;\">5.1. Identificar necesidades locales (residuos electrónicos).</td>\n<td style=\"height: 185.6px; width: 19.6404%;\" rowspan=\"2\">Bloque B: Propiedades de los elementos (metales, no metales, tierras raras) y su utilidad social.</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 20.0092%; height: 104.8px;\">5.2. Emprender proyectos (ApS) que creen valor para la comunidad (Jane Goodall).</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td rowspan=\"2\" style=\"width: 20.3781%; height: 181.2px;\">CCL, STEM, CD, CC</td>\n<td rowspan=\"2\" style=\"width: 20.0092%; height: 181.2px;\">CE.FYQ.6. Reconocer las contribuciones de la ciencia y la labor de las personas dedicadas a ella (especialmente mujeres y figuras clave).</td>\n<td rowspan=\"2\" style=\"width: 20.0092%; height: 181.2px;\">CCL3, STEM2, CD1, CC3.</td>\n<td style=\"width: 20.0092%; height: 104.8px;\">6.1. Valorar la labor de personas como Jane Goodall en la protección del medio ambiente.</td>\n<td rowspan=\"2\" style=\"width: 19.6404%; height: 181.2px;\">Bloque A: Evolución histórica de la ciencia y los modelos de la materia. La ciencia como labor colectiva y ética.</td>\n</tr>\n<tr style=\"height: 76.4px;\">\n<td style=\"width: 20.0092%; height: 76.4px;\">6.2. Entender la ciencia como un proceso en constante evolución.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3271-3uomp21mt</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3271-3uomp21mt</odePageId>
+      <odeBlockId>block-1777196370284-xaq80zram</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3271-3uomp21mt</odePageId>
+          <odeBlockId>block-1777196370284-xaq80zram</odeBlockId>
+          <odeIdeviceId>idevice-1777196370282-bpazccf4i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Siguiendo los principios pedagógicos generales y las orientaciones metodológicas particulares de la materia, establecidos en el Decreto del Currículo a continuación se muestran las metodologías activas empleadas en la SdA:</p>
+<div class="exe-fx exe-accordion">
+<h2>Aprendizaje Basado en Proyectos</h2>
+<p>El alumnado, comprometido con un problema real que requiere la aplicación de conceptos y habilidades prácticas, es el protagonista de su propio aprendizaje, desarrollando la labor investigadora de observación crítica y reflexiva, búsqueda de información, experimentación y obtención de resultados argumentados. </p>
+<p><img src="{{context_path}}/content/resources/ABP-ConvertImage.jpg" title="Aprendizaje Basado en Proyectos" width="1536" height="1087" alt="ABP" /></p>
+<h2>Aprendizaje Servicio (ApS)</h2>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/6NxUcO7A9c8?si=fzJvTna8Hk5a_21O" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Se trata de una metodología activa y una estrategia de desarrollo comunitario, pues, los alumnos y las alumnas aprenden haciendo un servicio a la comunidad. Así, tal y como defiende <strong>Roser Batlle,</strong> fundadora de la red Española de ApS, encuentran sentido a lo que estudian aplicando sus conocimientos a la práctica solidaria y se convierten en buenos ciudadanos capaces de mejorar la sociedad.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-26 103913.png" title="Proyecto ApS Responde a la llamada de la selva" width="1536" height="895" alt="Proyecto ApS Responde a la llamada de la selva" /></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777196370282-bpazccf4i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Siguiendo los principios pedagógicos generales y las orientaciones metodológicas particulares de la materia, establecidos en el Decreto del Currículo a continuación se muestran las metodologías activas empleadas en la SdA:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Aprendizaje Basado en Proyectos</h2>\n<p>El alumnado, comprometido con un problema real que requiere la aplicación de conceptos y habilidades prácticas, es el protagonista de su propio aprendizaje, desarrollando la labor investigadora de observación crítica y reflexiva, búsqueda de información, experimentación y obtención de resultados argumentados. </p>\n<p><img src=\"{{context_path}}/content/resources/ABP-ConvertImage.jpg\" title=\"Aprendizaje Basado en Proyectos\" width=\"1536\" height=\"1087\" alt=\"ABP\" /></p>\n<h2>Aprendizaje Servicio (ApS)</h2>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/6NxUcO7A9c8?si=fzJvTna8Hk5a_21O\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Se trata de una metodología activa y una estrategia de desarrollo comunitario, pues, los alumnos y las alumnas aprenden haciendo un servicio a la comunidad. Así, tal y como defiende <strong>Roser Batlle,</strong> fundadora de la red Española de ApS, encuentran sentido a lo que estudian aplicando sus conocimientos a la práctica solidaria y se convierten en buenos ciudadanos capaces de mejorar la sociedad.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-26 103913.png\" title=\"Proyecto ApS Responde a la llamada de la selva\" width=\"1536\" height=\"895\" alt=\"Proyecto ApS Responde a la llamada de la selva\" /></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3271-mgkb8zya1</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3271-mgkb8zya1</odePageId>
+      <odeBlockId>block-1777381637071-09p065zjy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3271-mgkb8zya1</odePageId>
+          <odeBlockId>block-1777381637071-09p065zjy</odeBlockId>
+          <odeIdeviceId>idevice-1777381637069-3c4v1pvuz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Programación General Anual recoge la concreción de todos los planes y programas de su Proyecto Educativo, que, abordados de forma interrelacionada, promueven el desarrollo integral del alumnado. A continuación, se detallan los planes y programas prescriptivos del centro, según la última circular de inicio de curso, a los que se contribuye desde esta situación de aprendizaje:</p>
+<p><strong>1. Plan de Orientación Educativa y Profesional</strong></p>
+<ul>
+<li><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Programa de Acción Tutorial (PAT):</span></span> La SdA permite trabajar la <em>oratoria </em>y las técnicas de estudio mediante la preparación del guion y la grabación del producto (audio o video) de concienciación final.</li>
+<li><span style="text-decoration: underline;">Programa de Atención a la Diversidad (PAD):</span> El diseño del eXeLearning bajo pautas DUA y el uso de metodologías cooperativas garantizan la inclusión de todo el alumnado, adaptando las actividades a sus necesidades específicas.</li>
+<li><span style="text-decoration: underline;">Programa de Orientación para el Desarrollo de la Carrera (PODC): </span>Se fomentan las vocaciones STEM al contextualizar la química en un entorno real (la industria tecnológica) y al presentar a figuras referentes como Jane Goodall para inspirar el trabajo científico.</li>
+</ul>
+<p><strong>2. Plan Integral de Convivencia (PIC)</strong></p>
+<p>La SdA fortalece la colaboración con agentes externos (Instituto Jane Goodall) y las familias (campaña de recogida), promoviendo una educación equitativa y una convivencia positiva basada en la empatía hacia las condiciones de vida en otras regiones como el Congo.<br /></p>
+<p><strong>3. Programa de Bienestar Socioemocional</strong></p>
+<p>A través del contacto con animales (estudio del hábitat de los chimpancés) y el proyecto de aprendizaje-servicio, el alumnado identifica y gestiona emociones vinculadas a la responsabilidad social, lo que ayuda a reducir comportamientos disruptivos al sentirse parte de una solución global.</p>
+<p><strong>4. Prevención del Abandono Escolar</strong></p>
+<p>El trabajo por proyectos y la metodología ApS impulsan el sentimiento de pertenencia al grupo-aula. Al ver la utilidad real de sus producciones, el alumnado se siente valorado, reforzando su motivación por permanecer en el sistema educativo.</p>
+<p><strong>5. Plan de Digitalización</strong></p>
+<p>Se promueve el uso de herramientas como Canva para la infografía, CapCut para el video y plataformas como Educaplus para las simulaciones atómicas, facilitando la búsqueda de información en fuentes fiables y la creación de evidencias digitales.</p>
+<p><strong>6. Plan de Lectura, Escritura e Investigación (PLEI)</strong></p>
+<p>La materia de Física y Química exige la búsqueda de noticias actuales (el conflicto del coltán) y la investigación de protocolos en fuentes científicas para resolver el reto planteado sobre la composición elemental de los dispositivos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777381637069-3c4v1pvuz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Programación General Anual recoge la concreción de todos los planes y programas de su Proyecto Educativo, que, abordados de forma interrelacionada, promueven el desarrollo integral del alumnado. A continuación, se detallan los planes y programas prescriptivos del centro, según la última circular de inicio de curso, a los que se contribuye desde esta situación de aprendizaje:</p>\n<p><strong>1. Plan de Orientación Educativa y Profesional</strong></p>\n<ul>\n<li><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\">Programa de Acción Tutorial (PAT):</span></span> La SdA permite trabajar la <em>oratoria </em>y las técnicas de estudio mediante la preparación del guion y la grabación del producto (audio o video) de concienciación final.</li>\n<li><span style=\"text-decoration: underline;\">Programa de Atención a la Diversidad (PAD):</span> El diseño del eXeLearning bajo pautas DUA y el uso de metodologías cooperativas garantizan la inclusión de todo el alumnado, adaptando las actividades a sus necesidades específicas.</li>\n<li><span style=\"text-decoration: underline;\">Programa de Orientación para el Desarrollo de la Carrera (PODC): </span>Se fomentan las vocaciones STEM al contextualizar la química en un entorno real (la industria tecnológica) y al presentar a figuras referentes como Jane Goodall para inspirar el trabajo científico.</li>\n</ul>\n<p><strong>2. Plan Integral de Convivencia (PIC)</strong></p>\n<p>La SdA fortalece la colaboración con agentes externos (Instituto Jane Goodall) y las familias (campaña de recogida), promoviendo una educación equitativa y una convivencia positiva basada en la empatía hacia las condiciones de vida en otras regiones como el Congo.<br /></p>\n<p><strong>3. Programa de Bienestar Socioemocional</strong></p>\n<p>A través del contacto con animales (estudio del hábitat de los chimpancés) y el proyecto de aprendizaje-servicio, el alumnado identifica y gestiona emociones vinculadas a la responsabilidad social, lo que ayuda a reducir comportamientos disruptivos al sentirse parte de una solución global.</p>\n<p><strong>4. Prevención del Abandono Escolar</strong></p>\n<p>El trabajo por proyectos y la metodología ApS impulsan el sentimiento de pertenencia al grupo-aula. Al ver la utilidad real de sus producciones, el alumnado se siente valorado, reforzando su motivación por permanecer en el sistema educativo.</p>\n<p><strong>5. Plan de Digitalización</strong></p>\n<p>Se promueve el uso de herramientas como Canva para la infografía, CapCut para el video y plataformas como Educaplus para las simulaciones atómicas, facilitando la búsqueda de información en fuentes fiables y la creación de evidencias digitales.</p>\n<p><strong>6. Plan de Lectura, Escritura e Investigación (PLEI)</strong></p>\n<p>La materia de Física y Química exige la búsqueda de noticias actuales (el conflicto del coltán) y la investigación de protocolos en fuentes científicas para resolver el reto planteado sobre la composición elemental de los dispositivos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3271-yjd9btd1i</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3271-yjd9btd1i</odePageId>
+      <odeBlockId>block-1777382515539-gyidop40f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3271-yjd9btd1i</odePageId>
+          <odeBlockId>block-1777382515539-gyidop40f</odeBlockId>
+          <odeIdeviceId>idevice-1777382515538-3khpb52cj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La campaña de recogida de móviles y el contacto con referentes científicos se alinean con este programa de actividades complementarias y extraescolares. La campaña se lleva a cabo en el concejo del centro de educativo, por lo que implica salidas con el entorno para concienciar a la población, centrada en los centros de educación primaria, sobre todo. Además, la SdA podría complementarse con visitas a centros como el Museo de la Minería y la Industria (MUMI) para comparar la minería histórica asturiana con la minería actual en el Congo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777382515538-3khpb52cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La campaña de recogida de móviles y el contacto con referentes científicos se alinean con este programa de actividades complementarias y extraescolares. La campaña se lleva a cabo en el concejo del centro de educativo, por lo que implica salidas con el entorno para concienciar a la población, centrada en los centros de educación primaria, sobre todo. Además, la SdA podría complementarse con visitas a centros como el Museo de la Minería y la Industria (MUMI) para comparar la minería histórica asturiana con la minería actual en el Congo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3271-jft2a3yt2</odePageId>
+  <odeParentPageId>page-moip326x-cqzr4nzf3</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moip3271-9o00yvjv4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Archivo fuente</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moip3271-9o00yvjv4</odePageId>
+      <odeBlockId>block-1777383729398-jqg5qya0r</odeBlockId>
+      <blockName>Descargar el fichero fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3271-9o00yvjv4</odePageId>
+          <odeBlockId>block-1777383729398-jqg5qya0r</odeBlockId>
+          <odeIdeviceId>idevice-1777383729397-0stwpdp8i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este contenido fue creado con <a href="https://exelearning.net/" title="eXeLearning" target="_blank" rel="noopener">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777383729397-0stwpdp8i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este contenido fue creado con <a href=\"https://exelearning.net/\" title=\"eXeLearning\" target=\"_blank\" rel=\"noopener\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moip3271-9o00yvjv4</odePageId>
+      <odeBlockId>block-1777384037546-tmf7rlx7s</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moip3271-9o00yvjv4</odePageId>
+          <odeBlockId>block-1777384037546-tmf7rlx7s</odeBlockId>
+          <odeIdeviceId>idevice-1777384037545-f9ao0g9eo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Responde a la llamada de la selva</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Patricia Valle Vigón</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
